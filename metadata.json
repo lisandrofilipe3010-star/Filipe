@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SlimTrack Pro - Ozempic & Mounjaro Tracker",
+  "description": "Uma aplicação mobile-first para acompanhamento de emagrecimento com suporte a vacinas Mounjaro e Ozempic, incluindo histórico de peso com fotos e gráficos de evolução.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
